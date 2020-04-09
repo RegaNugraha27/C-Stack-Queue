@@ -1,2 +1,1 @@
-# C-Stack-Queue
-Stack &amp; Queue
+# C++ membuat suatu Pemograman Stack & Queue menggunakan Array
